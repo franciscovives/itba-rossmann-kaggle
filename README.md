@@ -1,7 +1,7 @@
 # kaggle-rossmann
 
 Resumen Entrega:
-> Se entrega el código realizado en https://github.com/franciscovives/itba-nlp.git 
+> Se entrega el código realizado en https://github.com/franciscovives/itba-rossmann-kaggle
 > final-06-full-model.ipynb es el archivo principal con el que se logra el submit y bajar el error
 > Principalmente se llega al resultado modificando la red, agregando.
 > Los archivos de XGBoost y LightGBM no lograron mejorar la red hecha en 06
